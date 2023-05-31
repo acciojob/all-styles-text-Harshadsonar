@@ -1,9 +1,10 @@
 /* Your CSS Code here. */
 .main{
 	width:200px;
+	background-color: purple;
 }
 .heading {
-    background-color: purple;
+    
     border-left: 5px solid green;
     border-left-width: 5px;
     padding: 10px;
